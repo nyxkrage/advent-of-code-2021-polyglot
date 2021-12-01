@@ -7,6 +7,7 @@
 21-c/*.out
 
 20-go/*
+!20-go/*.go
 
 15-ada/*
 !15-ada/hello.adb
@@ -15,7 +16,6 @@
 13-dart/build/
 13-dart/pubspec.lock
 13-dart/.packages
-!20-go/*.go
 
 10-dlang/*
 !10-dlang/*.d
