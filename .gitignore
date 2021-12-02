@@ -39,5 +39,6 @@
 01-asm/*
 !01-asm/*.asm
 
+*/input
+
 !**/Makefile
-!**/input
